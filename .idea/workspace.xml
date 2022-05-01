@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb43cd93-0926-4cd6-804e-9de49e0dbc46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/client/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corporate/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corporate/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corporate/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corporate/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corporate/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/AdministratorHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/AdministratorHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ChangeTFA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ChangeTFA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ChangeUsername.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ChangeUsername.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/CustomerChooseStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/CustomerChooseStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/CustomerHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/CustomerHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DeleteAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DeleteAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ManagerHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corporate/ManagerHome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27aSsGpoGwqcOxs8PDMyIxwc1s1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb43cd93-0926-4cd6-804e-9de49e0dbc46" name="Changes" comment="" />
+      <created>1649556914632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649556914632</updated>
+      <workItem from="1649556916066" duration="550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
